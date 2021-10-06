@@ -685,6 +685,12 @@
          "id":92,
          "name":"zoomSilent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":119,
