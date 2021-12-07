@@ -671,7 +671,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zoom.us\/j\/6806804679?pwd=ZFRzQzJQakliMUtBU1BrNHA2WlV1dz09"
+                 "value":"https:\/\/zoom.us\/j\/6806804679"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -704,7 +704,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":119,
          "x":0,
          "y":0
